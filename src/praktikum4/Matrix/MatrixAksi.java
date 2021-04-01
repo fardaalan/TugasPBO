@@ -21,11 +21,11 @@ public class MatrixAksi {
         Matrix penjumlahanAB = A.plus(B);
         System.out.println("Penjumlahan Matriks A dan B");
         penjumlahanAB.show();
-
+ 
         System.out.println();
         Matrix perkalianBA = B.times(A);
         System.out.println("Perkalian Matriks B dan A");
-        perkalianBA.show();
+        perkalianBA.show(); 
     }
 }
 

@@ -29,3 +29,4 @@ public class Main {
         System.out.println("Ram Clock Speen" + ram.getClockSpeed());
     }
 }
+ 
